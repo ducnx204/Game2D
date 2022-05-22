@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: def9e17fb8d946e4baaf7927dfba18c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6656684203346133685
+    second: vang_0
+  - first:
+      213: 5821555920105206132
+    second: vang_1
+  - first:
+      213: -1262094390786991161
+    second: vang_2
+  - first:
+      213: 7132452167634068607
+    second: vang_3
+  - first:
+      213: 8661226635044605708
+    second: vang_4
+  - first:
+      213: -364496237344495226
+    second: vang_5
+  - first:
+      213: -7225853728764872163
+    second: vang_6
+  - first:
+      213: -4276282915614731472
+    second: vang_7
+  - first:
+      213: 6897167700137030448
+    second: vang_8
+  - first:
+      213: -5460647606741137348
+    second: vang_9
+  - first:
+      213: -5643096533418933233
+    second: vang_10
+  - first:
+      213: -2390256571959827567
+    second: vang_11
+  - first:
+      213: -2426732634192990724
+    second: vang_12
+  - first:
+      213: 9167396180784153953
+    second: vang_13
+  - first:
+      213: 7146313886935111517
+    second: vang_14
+  - first:
+      213: -115579999928860633
+    second: vang_15
+  - first:
+      213: -4377316921182502921
+    second: vang_16
+  - first:
+      213: 30880063039231541
+    second: vang_17
+  - first:
+      213: 1743963006750334270
+    second: vang_18
+  - first:
+      213: -7020790795347582343
+    second: vang_19
+  - first:
+      213: -6840665684712787738
+    second: vang_20
+  - first:
+      213: -5478411472703604173
+    second: vang_21
+  - first:
+      213: 764362123471451498
+    second: vang_22
+  - first:
+      213: 7525369638887590123
+    second: vang_23
+  - first:
+      213: -9088297935966991273
+    second: vang_24
+  - first:
+      213: -8309979896389874086
+    second: vang_25
+  - first:
+      213: 5373149022031056573
+    second: vang_26
+  - first:
+      213: -7189693751930661317
+    second: vang_27
+  - first:
+      213: 2489192718715917111
+    second: vang_28
+  - first:
+      213: -1699282109234823395
+    second: vang_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vang_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 475
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d79955cf4be93a0800000000000000
+      internalID: -6656684203346133685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 475
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47171f1f3425ac050800000000000000
+      internalID: 5821555920105206132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 475
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbd024a6d32c7ee0800000000000000
+      internalID: -1262094390786991161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 475
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742b45057f8bf260800000000000000
+      internalID: 7132452167634068607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 475
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f4cf44cbbd23870800000000000000
+      internalID: 8661226635044605708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 475
+        width: 22
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6896d137a9c01faf0800000000000000
+      internalID: -364496237344495226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 475
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab902615c98bb90800000000000000
+      internalID: -7225853728764872163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 475
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03356bf485797a4c0800000000000000
+      internalID: -4276282915614731472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_8
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 475
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03337f20b79a7bf50800000000000000
+      internalID: 6897167700137030448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_9
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 475
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c388b94fee1e734b0800000000000000
+      internalID: -5460647606741137348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 286
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04835ce991bfa1b0800000000000000
+      internalID: -5643096533418933233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 286
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193aa4adf4a14ded0800000000000000
+      internalID: -2390256571959827567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 286
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd241ec683825ed0800000000000000
+      internalID: -2426732634192990724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 286
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16589e66142293f70800000000000000
+      internalID: 9167396180784153953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 286
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57553c0e9ecc2360800000000000000
+      internalID: 7146313886935111517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 286
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c9193a90656ef0800000000000000
+      internalID: -115579999928860633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 286
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff3c93c375a043c0800000000000000
+      internalID: -4377316921182502921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 286
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365814f045bd6000800000000000000
+      internalID: 30880063039231541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 286
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d96ce5d1dc33810800000000000000
+      internalID: 1743963006750334270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 286
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a9f828f3219e90800000000000000
+      internalID: -7020790795347582343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 100
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e07d7b9dc21111a0800000000000000
+      internalID: -6840665684712787738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 100
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab31c9ac5c8f3b0800000000000000
+      internalID: -5478411472703604173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 100
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6577413d4f8b9a00800000000000000
+      internalID: 764362123471451498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 100
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88761c0db7f6860800000000000000
+      internalID: 7525369638887590123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 100
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c85c9dd21efd180800000000000000
+      internalID: -9088297935966991273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_25
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 100
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4b09ff450dac80800000000000000
+      internalID: -8309979896389874086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_26
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 100
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe066f3192419a40800000000000000
+      internalID: 5373149022031056573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_27
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 100
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36d35010a3193c90800000000000000
+      internalID: -7189693751930661317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_28
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 100
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7331d80e6936b8220800000000000000
+      internalID: 2489192718715917111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vang_29
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 100
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb1e1ccefea68e0800000000000000
+      internalID: -1699282109234823395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

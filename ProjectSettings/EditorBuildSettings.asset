@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Manhinhchao/Black.unity
+    guid: 189882a80a4d60c44a4cb10b82c6a639
+  - enabled: 1
+    path: Assets/Scenes/Manhinhchao/SoNic.unity
+    guid: c20ed6cd230f49c4ab4e44fab8c08c30
+  - enabled: 1
+    path: Assets/Scenes/Manhinhchao/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Capdo/Lv1.unity
+    guid: 190d256e71ea29b4cb3b743c5cee9a6c
+  - enabled: 1
+    path: Assets/Scenes/Capdo/LV2.unity
+    guid: dda978925ef21184790b06fb6bb69fe9
+  - enabled: 1
+    path: Assets/Scenes/Capdo/LV3.unity
+    guid: 9df7a6c0879916b4a87728bbd6b6b806
+  - enabled: 1
+    path: Assets/Scenes/Capdo/Wingame.unity
+    guid: 835fd4c4d7738bb4da158eb416d9e4c6
+  - enabled: 1
+    path: Assets/Scenes/Lever/Capdo.unity
+    guid: 54924386087645b4daea3f03a2a5d91d
+  m_configObjects: {}
